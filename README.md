@@ -64,6 +64,25 @@ Streamlined financial monitoring and analysis, allowing for informed budget allo
 Challenges
 
 Handled fluctuating budgets and interpreted financial trends.
+-----------------------------------------------------------******************************------------------------------------------
+
+Project Management Dashboard 
+
+Overview
+
+Created a comprehensive project management dashboard that offers real-time insights into project priorities, expenses, and completion status. Leveraged visualizations to optimize project efficiency and ensure timely delivery.
+
+Problem Solved
+
+Enhanced project tracking and resource allocation.
+
+Impact
+
+Improved project success rates and decision-making.
+
+Challenges
+
+Balancing multiple project metrics and presenting them intuitively.
 
 
 Feel free to customize this template with additional details or specific examples related to your DAX challenges. If you have any further requests or need assistance, don’t hesitate to ask! 🚀📊👍
