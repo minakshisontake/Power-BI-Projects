@@ -48,7 +48,7 @@ Challenges
 
 	o	Ensuring accurate results and efficient performance.
 
-----------------------***********************-----------------------------------------------------
+----------------------***********************----------------------
 
 Financial Dashboard
 
@@ -64,7 +64,7 @@ Streamlined financial monitoring and analysis, allowing for informed budget allo
 Challenges
 
 Handled fluctuating budgets and interpreted financial trends.
------------------------------------------------------------******************************------------------------------------------
+-----------------******************************---------------------
 
 Project Management Dashboard 
 
